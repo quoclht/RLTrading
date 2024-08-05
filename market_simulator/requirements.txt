@@ -1,0 +1,7 @@
+binance-futures-connector
+binance-connector
+pandas
+numpy
+redis[hiredis]
+Cython
+hampel
